@@ -21,4 +21,4 @@ To start using Crabyte in your Next.js project, follow these steps:
 1. Install Tailwind CSS if you haven't already:
 
    ```bash
-   npm install tailwindcss
+   npm install
